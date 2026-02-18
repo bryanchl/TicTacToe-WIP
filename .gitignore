@@ -1,5 +1,9 @@
-/animation test.py
-/base.py
 /__pycache__
-/build
-/dist
+build/tictactoe/Analysis-00.toc
+build/tictactoe/base_library.zip
+build/tictactoe/EXE-00.toc
+build/tictactoe/PKG-00.toc
+build/tictactoe/PYZ-00.toc
+build/tictactoe/tictactoe.pkg
+build/tictactoe/xref-tictactoe.html
+dist/tictactoe.exe
