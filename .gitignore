@@ -1,4 +1,6 @@
 /__pycache__
+/build
+/dist
 build/tictactoe/Analysis-00.toc
 build/tictactoe/base_library.zip
 build/tictactoe/EXE-00.toc
